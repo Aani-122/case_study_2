@@ -7,8 +7,7 @@ This project provides a FastAPI-based web service for credit card fraud detectio
 
 1. **Clone the repository and navigate to the project directory:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-project-directory>
+   git clone https://github.com/Aani-122/case_study_2.git
    ```
 
 2. **Install the required dependencies:**
